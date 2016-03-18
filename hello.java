@@ -3,5 +3,6 @@ public class hello{
 		System.out.println("Hello CS580!!");
 		System.out.println("Hello CS580 again!!");
 		System.out.println("nice job peng");
+		//nice
 	}
 }
